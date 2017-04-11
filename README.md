@@ -1,0 +1,1 @@
+App for creating reviews about the place on the map
